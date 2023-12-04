@@ -1,6 +1,6 @@
 # uCoz Destroyer
 Cleaning service for uCoz-dumped websites
-What is done: 
+## What is done: 
 - [X] Patterns for HTML cleaning
 - [X] Cleaning random uCoz-related files
 - [ ] Auto-Updating
